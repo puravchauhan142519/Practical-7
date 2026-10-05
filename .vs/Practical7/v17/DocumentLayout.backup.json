@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Practical7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|C:\\Users\\HP\\source\\repos\\Practical7\\practical7\\views\\shared\\_feedbacks1page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|solutionrelative:practical7\\views\\shared\\_feedbacks1page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|c:\\users\\hp\\source\\repos\\practical7\\practical7\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|solutionrelative:practical7\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|c:\\users\\hp\\source\\repos\\practical7\\practical7\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|solutionrelative:practical7\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|c:\\users\\hp\\source\\repos\\practical7\\practical7\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|solutionrelative:practical7\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|c:\\users\\hp\\source\\repos\\practical7\\practical7\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|solutionrelative:practical7\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|C:\\Users\\HP\\source\\repos\\Practical7\\practical7\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53595D-FDE8-46CE-B907-14B0F091976C}|Practical7\\Practical7.csproj|solutionrelative:practical7\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practical7\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practical7\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:33:42.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Practical7\\Views\\Feedbacks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeToolTip": "Practical7\\Views\\Feedbacks\\Details.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T16:25:51.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical7\\Views\\Feedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeToolTip": "Practical7\\Views\\Feedbacks\\Index.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwHMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T03:00:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_FeedbackS1Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Views\\Shared\\_FeedbackS1Page1.cshtml",
+              "RelativeDocumentMoniker": "Practical7\\Views\\Shared\\_FeedbackS1Page1.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Views\\Shared\\_FeedbackS1Page1.cshtml*",
+              "RelativeToolTip": "Practical7\\Views\\Shared\\_FeedbackS1Page1.cshtml*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T02:59:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "Practical7\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "Practical7\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:52:08.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Practical7\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Practical7\\Practical7\\Models\\Feedback.cs",
+              "RelativeToolTip": "Practical7\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:45:42.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
